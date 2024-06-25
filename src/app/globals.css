@@ -19,3 +19,19 @@ body {
   background: var(--background);
   font-synthesis: none;
 }
+
+
+@media (min-width: 768px) {
+  .custom-width{
+      width:600px;
+}}
+  
+@media (min-width: 992px) {
+  .custom-width{
+      width:720px;
+}}
+  
+@media (min-width: 1200px) {
+  .custom-width{
+      width:750px;
+}}
