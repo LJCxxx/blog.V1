@@ -31,7 +31,7 @@ function Blog({blog}:any){
                         <h1 className="text-gray-100 text-xl uppercase">read more</h1>
                     </div>
                 </div>
-                <p className="pt-2 text-2xl">{caption}</p>
+                <p className="pt-2 text-xl">{caption}</p>
             </div>
         </Link>
     )
